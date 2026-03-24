@@ -1,0 +1,54 @@
+{
+  "echartsOptionsOverrides": {
+    "color": [
+      "#1e7e78",
+      "#288f89",
+      "#48a8a1",
+      "#70c3bd",
+      "#94d7d2",
+      "#b8eae5",
+      "#d4f0ec",
+      "#eaf7f5",
+      "#b4e9cc",
+      "#d4edbc",
+      "#e5ecb5",
+      "#f0f4c3",
+      "#fcfdb7",
+      "#fde8b0",
+      "#fbddb7",
+      "#f8cb9e",
+      "#f4af83",
+      "#f09060",
+      "#ec7d5f",
+      "#e56447",
+      "#dc4b31",
+      "#ca3c2a",
+      "#b52a1a",
+      "#9e1c0e"
+    ],
+    "backgroundColor": "transparent",
+    "textStyle": {
+      "fontFamily": "Inter, Helvetica, Arial, sans-serif"
+    },
+    "legend": {
+      "textStyle": {
+        "color": "#e0e0e0"
+      }
+    },
+    "tooltip": {
+      "backgroundColor": "#1e1e1e",
+      "textStyle": {
+        "color": "#ffffff"
+      },
+      "borderColor": "#555"
+    },
+    "axisPointer": {
+      "lineStyle": {
+        "color": "#444"
+      }
+    },
+    "grid": {
+      "borderColor": "#444"
+    }
+  }
+}
